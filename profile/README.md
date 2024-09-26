@@ -72,6 +72,106 @@ npm run dev
 
 &nbsp;
 
+## 📂 프로젝트 구조
+
+```bash
+├─public
+│  └─favicon
+└─src
+    ├─api
+    ├─assets
+    │  ├─direction
+    │  ├─game
+    │  ├─home
+    │  │  ├─event
+    │  │  ├─footer
+    │  │  ├─hero
+    │  │  ├─schedule
+    │  │  └─shop
+    │  ├─introduction
+    │  ├─logo
+    │  ├─player
+    │  ├─team
+    │  ├─wiz-news
+    │  └─wiz-park
+    ├─components
+    │  ├─common
+    │  │  ├─layout
+    │  │  ├─typography
+    │  │  └─ui
+    │  │      ├─button
+    │  │      ├─tab
+    │  │      └─table
+    │  ├─direction
+    │  ├─error
+    │  ├─footer
+    │  │  └─modal
+    │  ├─game
+    │  │  ├─boxscore
+    │  │  ├─ranking
+    │  │  │  ├─crowd
+    │  │  │  ├─player
+    │  │  │  └─team
+    │  │  ├─schedule
+    │  │  └─watchpoint
+    │  │      ├─common
+    │  │      ├─lineup
+    │  │      ├─pitcher
+    │  │      ├─skeleton
+    │  │      ├─top-player
+    │  │      └─watchpoint-main
+    │  ├─header
+    │  ├─home
+    │  │  ├─contents
+    │  │  │  ├─events
+    │  │  │  ├─live
+    │  │  │  ├─news
+    │  │  │  ├─rank
+    │  │  │  ├─schedule
+    │  │  │  └─shop
+    │  │  ├─hero
+    │  │  └─sidebar
+    │  ├─introduction
+    │  ├─player
+    │  │  ├─cheer
+    │  │  ├─common
+    │  │  ├─hitter
+    │  │  └─pitcher
+    │  ├─wiz-news
+    │  └─wiz-park
+    ├─constants
+    ├─data
+    ├─hooks
+    ├─mocks
+    │  ├─game
+    │  ├─home
+    │  ├─introduction
+    │  ├─player
+    │  ├─wiz-news
+    │  └─wiz-park
+    ├─pages
+    │  ├─game
+    │  │  └─ranking
+    │  ├─Introduction
+    │  ├─news
+    │  ├─player
+    │  │  ├─cheer
+    │  │  ├─coach
+    │  │  ├─hitter
+    │  │  └─pitcher
+    │  └─wiz-park
+    ├─router
+    ├─stores
+    ├─styles
+    │  ├─carousel
+    │  ├─news
+    │  └─player
+    ├─types
+    └─utils
+```
+
+&nbsp;
+
 ## ✉️ Conventions
 
 ### 커밋 컨벤션
