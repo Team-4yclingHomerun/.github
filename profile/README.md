@@ -31,6 +31,9 @@
 > - `framer motion`을 활용한 애니메이션 효과로 사용자의 흥미를 유발하였습니다.
 > - KT Wiz의 아이덴티티를 강조하였습니다.
 
+![HERO섹션](https://github.com/user-attachments/assets/cc108921-518b-4984-a0fc-1825621c49c0)
+
+
 3. GAME 섹션
 > - 일주일 치 경기(종료된 경기 포함)를 캐러셀로 구현하여 한 눈에 볼 수 있게 제작하였습니다.
 > - 승패, 승률 뿐 아니라 AI 분석을 통한 가을 야구 진출 확률을 제공합니다.
@@ -57,9 +60,13 @@
 
 1. 구단 소개
 > 애니메이션으로 구단 소개를 차례로 보여주며 사용자의 몰입감을 향상 시켰습니다.
+  
+![구단소개](https://github.com/user-attachments/assets/ede3bd18-9533-444e-ae1a-34f0733472f1)
 
 2. 구단 연혁
 > 스크롤과 카드 플립 애니메이션을 활용하였고, 연도의 상징이 되는 사진을 보여줌으로써 KT Wiz의 연혁을 직관적으로 각인시킬 수 있도록 했습니다.
+
+![구단연혁](https://github.com/user-attachments/assets/62a554e5-4f4a-4bfd-98fe-bf575fd9ff2c)
 
 &nbsp;
 
@@ -68,9 +75,13 @@
 1. 구장 소개
 > 애니메이션으로 구장 소개를 차례로 보여주며 사용자의 몰입감을 향상 시켰습니다.
 
+![구장소개](https://github.com/user-attachments/assets/d2fa358c-000d-46ef-9445-cf6f03b054b9)
+
 2. 구장 안내도
 > - 기존과 달리 한 화면에 모든 내용이 들어갈 수 있도록 정보를 넣어 사용자 경험을 높였습니다.
 > - 이미지 확장자를 `svg`로 하여 작은 글씨도 깨지지 않게 하고 이미지 최적화를 했습니다.
+
+![구장 안내도](https://github.com/user-attachments/assets/9be4bc61-b217-4360-83d1-27eeec761ff5)
 
 &nbsp;
 
@@ -78,6 +89,8 @@
 
 1. 찾아오기
 > 네이버 지도API를 통해 수원 KT위즈파크의 위치를 쉽게 파악할 수 있도록 개선했습니다.
+
+![찾아오기](https://github.com/user-attachments/assets/61d0c30f-a876-4383-b2ab-4af6beca907e)
 
 &nbsp;
 
