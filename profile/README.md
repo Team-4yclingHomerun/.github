@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32c955c9-25af-40d1-b2cd-09dcc395e0aa)# TEAM4 - 사이클링홈런⚾️
+# TEAM4 - 사이클링홈런⚾️
 
 ## ⭐️ About Team
 > 유데미 X 스나이퍼팩토리 React 2기 4팀
@@ -16,7 +16,7 @@
   - 데이터가 요청되는 부분에 스켈레톤 ui를 적용하여 로딩 중에 빈화면이 뜨지 않습니다.
 
 ## 💻 Preview
-![image](https://github.com/user-attachments/assets/8ca3ff61-e62c-417f-be80-6cbfd5243b0f)
+![image](https://github.com/user-attachments/assets/6213d4d1-c2ec-4cbe-b3cc-0f01a5e47616)
 
 &nbsp;
 
