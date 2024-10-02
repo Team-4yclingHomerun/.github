@@ -159,6 +159,7 @@
 > - 기존엔 없던 네이버 뉴스기사 탭을 추가하여 구단에 관심있는 사용자들의 더 많은 정보 확인에 도움이 될 것이라 예상합니다.
 
 ![WIZ-NEWS](https://github.com/user-attachments/assets/574d086e-919f-4cbc-bdc8-e4222fd7ee5d)
+![WNEWS](https://github.com/user-attachments/assets/54c474be-12c3-4b9a-b00c-9b0bde534748)
 
 
 &nbsp;
