@@ -45,11 +45,18 @@
 4. NEWS 섹션
 > 최신 날짜 기준으로 4개의 뉴스의 썸네일과 제목을 제공하여 최근 소식을 간편하게 확인할 수 있습니다.
 
+![NEWS섹션](https://github.com/user-attachments/assets/6e76c1c4-9b96-414e-9733-bd69e9a198c0)
+
+
 5. SHOP 섹션
 > KT Wiz Store의 실제 상품 중 5개를 무작위로 뽑아 제공하며, 이로써 스토어에 대한 접근성을 향상시켰습니다.
 
+![SHOP섹션](https://github.com/user-attachments/assets/c3f05475-743f-49c7-8c79-2ea57933ea8a)
+
 6. EVENT 섹션
 > 다양한 이벤트와 보도 자료를 자동 캐러셀로 표시하였고 클릭 시 해당 내용으로 연결됩니다.
+
+![EVENT섹션](https://github.com/user-attachments/assets/fbfe1ad5-5e7c-4428-8e11-c2313213f25c)
 
 7. FOOTER 섹션
 > KT Wiz 공식 홈페이지의 `footer ui`를 재현하였으며, 기존의 문제점을 드롭다운 애니메이션과 모달 형태로 개선하였습니다.
@@ -58,6 +65,8 @@
 
 8. 사이드바
 > 우측 고정 사이드바를 추가하고 자주 이용하는 서비스들로 구성하여 접근성을 높였습니다.
+
+![사이드바](https://github.com/user-attachments/assets/4a5fb036-f325-4ea9-a815-741d932c5bc1)
 
 &nbsp;
 
